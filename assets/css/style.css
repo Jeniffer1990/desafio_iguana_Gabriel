@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.imagen{
+    background-color: blueviolet;
+}
+.caja1{
+    display: flex;
+    padding: 20px;
+    
+}
+.texto{
+    font-size: 20px;
+    background-color: black;
+    width: 40%;
+    padding: 60px;
+    text-align: left;
+}
+.imagen2{
+    width: 40%;
+    background-color: black;
+    padding: 60px;
+    
+}
+.hola{
+    text-align: center;
+    font-size: 50px;
+}
+.datos{
+    text-align: center;
+    background-color: rgb(36, 36, 39);
+    display: flex;
+}
+.icono{
+    width: 60%;
+    font-size: 40px;
+    padding: 20px;
+}
+.hola1{
+    background-color: rgb(36, 36, 39);
+}
+.imagenes{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+a{
+    color: aliceblue;
+}
